@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Prayer X",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-28T14:55:55.529825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Prayer X",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_Prayer_X_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Prayer X",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_Prayer_X_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prayer X (Acoustic)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_Prayer_X_(Acoustic)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Prayer X",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_Prayer_X_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prayer X",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/05_Prayer_X_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prayer X (Acoustic)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/06_Prayer_X_(Acoustic)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Prayer X",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/07_Prayer_X_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prayer X",
+      "artist": "Aki Chan",
+      "has_synced": false,
+      "path": "select/08_Prayer_X_Aki_Chan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Prayer X (From \"Banana Fish\")",
+      "artist": "Nordex",
+      "has_synced": true,
+      "path": "select/09_Prayer_X_(From__Banana_Fish_)_Nordex.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King Gnu - Prayer X",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/10_King_Gnu_-_Prayer_X_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prayer X",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/11_Prayer_X_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prayer X",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_Prayer_X_King_Gnu.txt"
+    }
+  ]
+}
